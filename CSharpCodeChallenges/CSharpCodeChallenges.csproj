@@ -43,16 +43,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arrays.cs" />
     <Compile Include="BinaryTreeSearch\BinaryTreeSearcher.cs" />
     <Compile Include="BinaryTreeSearch\Node.cs" />
     <Compile Include="FibonacciSeries.cs" />
     <Compile Include="FizzBuzz.cs" />
+    <Compile Include="MostUsedWords.cs" />
+    <Compile Include="MultiDimensionalArray.cs" />
     <Compile Include="Palindrome.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShapeDisplay.cs" />
+    <Compile Include="Convertor.cs" />
+    <Compile Include="UserIdPassword.cs" />
     <Compile Include="UserInput\NumberInput.cs" />
     <Compile Include="UserInput\TestUserInput.cs" />
     <Compile Include="UserInput\TextInput.cs" />
+    <Compile Include="WordCounter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
